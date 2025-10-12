@@ -29,6 +29,12 @@ section {
     padding: 0 1.5rem;
 }
 
+nav{
+     max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+}
+
 h2 {
     color: #4a5568;
     border-bottom: 2px solid #667eea;
